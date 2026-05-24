@@ -1,0 +1,165 @@
+{
+  "summary": {
+    "total": 15,
+    "average": 4.4,
+    "distribution": {
+      "5": 11,
+      "4": 2,
+      "3": 0,
+      "2": 1,
+      "1": 1
+    }
+  },
+  "reviews": [
+    {
+      "userName": "Antonio O.",
+      "rating": 5,
+      "date": "2 years ago",
+      "comment": "Excelente vendedora, Inma es una persona muy servicial y facilita todo lo que esté en su mano.",
+      "carTitle": "Scooter 125",
+      "wallapopUrl": "https://es.wallapop.com/item/scooter-1800-925838525",
+      "userAvatar": "https://cdn.wallapop.com/images/13/09/e8/__/c13p15781268/i2324063185.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/fb/7x/__/c10420p925838525/i3428168023.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Nacho C.",
+      "rating": 5,
+      "date": "2 years ago",
+      "comment": "Todo perfecto",
+      "carTitle": "Hyosung Aguila 125",
+      "wallapopUrl": "https://es.wallapop.com/item/hyosung-aguila-gv-125-2019-885093480",
+      "userAvatar": "https://cdn.wallapop.com/images/13/17/cu/__/c13p72823208/i3603786384.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/em/ym/__/c10420p885093480/i3202860366.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Mariano A.",
+      "rating": 5,
+      "date": "2 years ago",
+      "comment": "",
+      "carTitle": "ducati panigale 1299",
+      "wallapopUrl": "https://es.wallapop.com/item/ducati-925217991",
+      "userAvatar": "https://cdn.wallapop.com/images/13/0w/1e/__/c13p53813044/i251296137.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/fa/um/__/c10420p925217991/i3425054062.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Risueño G.",
+      "rating": 5,
+      "date": "3 years ago",
+      "comment": "",
+      "carTitle": "SEAT Altea 2010",
+      "wallapopUrl": "https://es.wallapop.com/item/seat-altea-2010-898251883",
+      "userAvatar": "https://cdn.wallapop.com/images/13/1w/mk/__/c13p115267067/i2954124965.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/eu/sn/__/c10420p898251883/i3270369593.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "..",
+      "rating": 5,
+      "date": "3 years ago",
+      "comment": "",
+      "carTitle": "Volkswagen Touareg 2009",
+      "wallapopUrl": "https://es.wallapop.com/item/volkswagen-touareg-2009-807891338",
+      "userAvatar": "",
+      "carImage": "https://cdn.wallapop.com/images/10420/dc/zw/__/c10420p807891338/i2776500560.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Marco Antonio  B.",
+      "rating": 5,
+      "date": "3 years ago",
+      "comment": "Anuncio claro y trato agradable.\nVendedor recomendable",
+      "carTitle": "BMW Serie 5 2002",
+      "wallapopUrl": "https://es.wallapop.com/item/bmw-serie-5-2002-843193370",
+      "userAvatar": "https://cdn.wallapop.com/images/13/13/cd/__/c13p66082095/i679836225.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/dy/0k/__/c10420p843193370/i2949452226.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "ana m.",
+      "rating": 5,
+      "date": "3 years ago",
+      "comment": "Super bien, inma encantadora sin duda volveria a contactar con ellos",
+      "carTitle": "KIA Sportage 2012",
+      "wallapopUrl": "https://es.wallapop.com/item/kia-sportage-2012-821414825",
+      "userAvatar": "https://cdn.wallapop.com/images/13/11/q8/__/c13p63369843/i3610779439.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/dl/1r/__/c10420p821414825/i2843074608.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "BICIOBIKER  TALAVERA  S.",
+      "rating": 5,
+      "date": "3 years ago",
+      "comment": "Inma es la comercial más competente con la que he tratado en mi vida . Seriedad , facilidad , sinceridad y rapidez . IMPECABLE SERVICIO !!!",
+      "carTitle": "Citroen Jumper 2011",
+      "wallapopUrl": "https://es.wallapop.com/item/citroen-jumper-2011-804535694",
+      "userAvatar": "https://cdn.wallapop.com/images/13/1g/20/__/c13p87433553/i1311503027.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/da/zz/__/c10420p804535694/i2757494126.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Sebastian A.",
+      "rating": 2,
+      "date": "4 years ago",
+      "comment": "",
+      "carTitle": "Ford Mondeo 2006",
+      "wallapopUrl": "https://es.wallapop.com/item/ford-mondeo-2006-777608916",
+      "userAvatar": "https://cdn.wallapop.com/images/13/4i/q3/__/c13p273315996/i1094416782.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/cu/yu/__/c10420p777608916/i2599594318.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Paula P.",
+      "rating": 5,
+      "date": "4 years ago",
+      "comment": "",
+      "carTitle": "CITROEN Jumper",
+      "wallapopUrl": "https://es.wallapop.com/item/citroen-jumper-586443609",
+      "userAvatar": "https://cdn.wallapop.com/images/13/08/2h/__/c13p13553351/i2864829675.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/9p/5i/__/c10420p586443609/i1806063733.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Helen G.",
+      "rating": 1,
+      "date": "4 years ago",
+      "comment": "",
+      "carTitle": "",
+      "wallapopUrl": "",
+      "userAvatar": "https://cdn.wallapop.com/images/13/0r/gk/__/c13p46123133/i457394178.jpg?pictureSize=W320",
+      "carImage": ""
+    },
+    {
+      "userName": "deleted d.",
+      "rating": 4,
+      "date": "4 years ago",
+      "comment": "",
+      "carTitle": "Peugeot Boxer 2017",
+      "wallapopUrl": "https://es.wallapop.com/item/peugeot-boxer-2017-655897838",
+      "userAvatar": "",
+      "carImage": "https://cdn.wallapop.com/images/10420/au/i6/__/c10420p655897838/i2069354681.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "deleted d.",
+      "rating": 5,
+      "date": "4 years ago",
+      "comment": "Todo perfecto, después de un mes el coche funciona correctamente.",
+      "carTitle": "FORD EcoSport 1.5 tdci 2016",
+      "wallapopUrl": "https://es.wallapop.com/item/ford-ecosport-586443667",
+      "userAvatar": "",
+      "carImage": "https://cdn.wallapop.com/images/10420/9p/5i/__/c10420p586443667/i1806090582.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "David M.",
+      "rating": 5,
+      "date": "4 years ago",
+      "comment": "Vendedor recomendable. Muy majo y comunicativo",
+      "carTitle": "",
+      "wallapopUrl": "",
+      "userAvatar": "https://cdn.wallapop.com/images/13/1j/la/__/c13p93372268/i518517157.jpg?pictureSize=W320",
+      "carImage": ""
+    },
+    {
+      "userName": "Fernando L.",
+      "rating": 4,
+      "date": "5 years ago",
+      "comment": "Buen trato general todo correcto sin sorpresas recomendable",
+      "carTitle": "",
+      "wallapopUrl": "",
+      "userAvatar": "https://cdn.wallapop.com/images/13/0j/cz/__/c13p32518818/i3617451386.jpg?pictureSize=W320",
+      "carImage": ""
+    }
+  ]
+}
