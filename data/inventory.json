@@ -243,28 +243,6 @@
       "sold": false
     },
     {
-      "id": "fiat-500x-16-lounge-120cv-2018-wzyrqo",
-      "brand": "FIAT",
-      "model": "500X 1.6 Multijet 120 Lounge 5p S/S",
-      "year": 2018,
-      "price": 13490,
-      "km": 138000,
-      "fuel": "Diesel",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta C",
-        "Potencia: 119 HP",
-        "Color: Blue",
-        "Puertas: 5 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/fiat-500x-1-6-lounge-120cv-2018-1221608644",
-      "imageUrl": "img/cars/fiat-500x-16-lounge-120cv-2018-wzyrqo.webp",
-      "featured": false,
-      "sold": false
-    },
-    {
       "id": "fiat-500-monotrim-10-hybrid-2023-0j28gw",
       "brand": "FIAT",
       "model": "500 C Hybrid 1.0 70 2p S/S",
@@ -877,6 +855,28 @@
       ],
       "adUrl": "https://es.wallapop.com/item/opel-corsa-1-5d-dt-edition-102cv-48-000km-diesel-1262408344",
       "imageUrl": "img/cars/opel-corsa-15d-dt-edition-102cv48000km-diesel-wzyr0g.webp",
+      "featured": false,
+      "sold": false
+    },
+    {
+      "id": "bmw-x4-sdrivexline-20d-20-dieselhibridohev-2022-x6qqoo",
+      "brand": "BMW",
+      "model": "X4 G02 20d xDrive 190 xLine 5p Aut",
+      "year": 2022,
+      "price": 44990,
+      "km": 86999,
+      "fuel": "Gasolina",
+      "transmission": "Automatico",
+      "features": [
+        "Etiqueta Eco",
+        "Potencia: 190 HP",
+        "Color: Gray",
+        "Puertas: 5 doors",
+        "Kilometraje certificado",
+        "Revisado y listo para transferir"
+      ],
+      "adUrl": "https://es.wallapop.com/item/bmw-x4sdrive-20d-2-0-diesel-hibrido-hev-2022-1262779866",
+      "imageUrl": "img/cars/bmw-x4-sdrivexline-20d-20-dieselhibridohev-2022-x6qqoo.webp",
       "featured": false,
       "sold": false
     }
