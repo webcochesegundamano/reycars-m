@@ -353,28 +353,6 @@
       "sold": false
     },
     {
-      "id": "peugeot-208-15bluehdi-active-100cv-122021-pj94ep",
-      "brand": "Peugeot",
-      "model": "208 1.5 BlueHDi 100 Active 5p S/S",
-      "year": 2021,
-      "price": 13990,
-      "km": 91999,
-      "fuel": "Diesel",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta C",
-        "Potencia: 102 HP",
-        "Color: White",
-        "Puertas: 5 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/peugeot-208-1-5bluehdi-active-100cv-12-2021-1239757337",
-      "imageUrl": "img/cars/peugeot-208-15bluehdi-active-100cv-122021-pj94ep.webp",
-      "featured": false,
-      "sold": false
-    },
-    {
       "id": "citroen-berlingo-16-bluehdi-75-cv-2017-vjrex5",
       "brand": "Citroen",
       "model": "Berlingo Furgón 1.6 BlueHDi 75 3p",
@@ -441,28 +419,6 @@
       "sold": false
     },
     {
-      "id": "nissan-micra-10-igt-ndesign-black-90-cv-122022-v6gpn0",
-      "brand": "Nissan",
-      "model": "Micra 1.0 IG-T 92 N-Design Black 5p S/S",
-      "year": 2022,
-      "price": 14990,
-      "km": 45000,
-      "fuel": "Gasolina",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta C",
-        "Potencia: 92 HP",
-        "Color: Gray",
-        "Puertas: 5 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/nissan-micra-1-0-ig-t-n-design-black-90-cv-12-2022-1242555588",
-      "imageUrl": "img/cars/nissan-micra-10-igt-ndesign-black-90-cv-122022-v6gpn0.webp",
-      "featured": false,
-      "sold": false
-    },
-    {
       "id": "hyundai-i20-10-tgdi-klass-100cv-gasolina-2024-nz08xg",
       "brand": "Hyundai",
       "model": "i20 1.0 TGDi 100 48V Klass 5p S/S",
@@ -525,28 +481,6 @@
       ],
       "adUrl": "https://es.wallapop.com/item/volkswagen-golf-1-0-life-etsi-110cv-dsg-2022-1254539554",
       "imageUrl": "img/cars/volkswagen-golf-10-life-etsi-110cv-dsg-2022-nzxegg.webp",
-      "featured": false,
-      "sold": false
-    },
-    {
-      "id": "cupra-formentor-20-tdi-dsg-4drive-2022-v6gp3l",
-      "brand": "CUPRA",
-      "model": "Formentor 2.0 TDI 150 4Drive 5p S/S DSG7",
-      "year": 2022,
-      "price": 25990,
-      "km": 89000,
-      "fuel": "Diesel",
-      "transmission": "Automatico",
-      "features": [
-        "Etiqueta C",
-        "Potencia: 150 HP",
-        "Color: Maroon",
-        "Puertas: 5 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/cupra-formentor-2-0-tdi-dsg-4drive-2022-1256867740",
-      "imageUrl": "img/cars/cupra-formentor-20-tdi-dsg-4drive-2022-v6gp3l.webp",
       "featured": false,
       "sold": false
     },
@@ -877,6 +811,72 @@
       ],
       "adUrl": "https://es.wallapop.com/item/bmw-x4sdrive-20d-2-0-diesel-hibrido-hev-2022-1262779866",
       "imageUrl": "img/cars/bmw-x4-sdrivexline-20d-20-dieselhibridohev-2022-x6qqoo.webp",
+      "featured": false,
+      "sold": false
+    },
+    {
+      "id": "jeep-renegade-20-140cv-night-ea-122019-pj94ll",
+      "brand": "Jeep",
+      "model": "Renegade 2.0 MJet 140 Night Eagle 4x4 AD 5p E6 MY17",
+      "year": 2019,
+      "price": 17990,
+      "km": 152999,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "features": [
+        "Etiqueta C",
+        "Potencia: 140 HP",
+        "Color: White",
+        "Puertas: 5 doors",
+        "Kilometraje certificado",
+        "Revisado y listo para transferir"
+      ],
+      "adUrl": "https://es.wallapop.com/item/jeep-renegade-2-0-140cv-night-ea-12-2019-1262843461",
+      "imageUrl": "img/cars/jeep-renegade-20-140cv-night-ea-122019-pj94ll.webp",
+      "featured": false,
+      "sold": false
+    },
+    {
+      "id": "alfa-romeo-stelvio-22-diesel-190cv-sprint-q4-2022-qzmmww",
+      "brand": "Alfa Romeo",
+      "model": "Stelvio 2.2 JTDM 190 Sprint+ Q4 5p S/S Aut",
+      "year": 2022,
+      "price": 25990,
+      "km": 102999,
+      "fuel": "Diesel",
+      "transmission": "Automatico",
+      "features": [
+        "Etiqueta C",
+        "Potencia: 190 HP",
+        "Color: Gray",
+        "Puertas: 5 doors",
+        "Kilometraje certificado",
+        "Revisado y listo para transferir"
+      ],
+      "adUrl": "https://es.wallapop.com/item/alfa-romeo-stelvio-2-2-diesel-190cv-sprint-q4-2022-1262899980",
+      "imageUrl": "img/cars/alfa-romeo-stelvio-22-diesel-190cv-sprint-q4-2022-qzmmww.webp",
+      "featured": false,
+      "sold": false
+    },
+    {
+      "id": "kia-sportage-16-tgdi-drive-160-cv-gasolina-2024-4z48ll",
+      "brand": "KIA",
+      "model": "Sportage 1.6 T-GDi 160 Drive 18  5p ISG",
+      "year": 2024,
+      "price": 25990,
+      "km": 62999,
+      "fuel": "Gasolina",
+      "transmission": "Manual",
+      "features": [
+        "Etiqueta C",
+        "Potencia: 160 HP",
+        "Color: Red",
+        "Puertas: 5 doors",
+        "Kilometraje certificado",
+        "Revisado y listo para transferir"
+      ],
+      "adUrl": "https://es.wallapop.com/item/kia-sportage-1-6-t-gdi-drive-160-cv-gasolina-2024-1263046886",
+      "imageUrl": "img/cars/kia-sportage-16-tgdi-drive-160-cv-gasolina-2024-4z48ll.webp",
       "featured": false,
       "sold": false
     }
